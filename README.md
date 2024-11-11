@@ -1,2 +1,2 @@
 # otech-while-loops
-A lesson while loops: use the robot to eat them all!
+A lesson on while loops: use the robot to eat them all!
